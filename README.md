@@ -9,6 +9,6 @@ SwapDemo.py demonstrates the quantum signature scheme, allowing the user to deci
 
 EntanglementScheme.py demonstrates the entanglement scheme with 1 entangled pair chosen by the user out of 10 qubits being sent across and simulates the enhanced bb84 protocol.
 
-mult-retention.py generates a graph "Expected QKD Efficiency as Entanglement Pair Concentration Increases", sample shown in ExpectedEfficiency.png
+mult-retention.py generates a graph "Expected QKD Efficiency as Entanglement Pair Concentration Increases", with a sample generated and stored in ExpectedEfficiency.png for easier viewing access.
 
 Presentation slides available here: https://docs.google.com/presentation/d/1ndAsEHuos7To-udtu87Rz0p20aDvOesSVp6kFGUjodI/, with a sample presentation shown in NJRSF-video.mp4
