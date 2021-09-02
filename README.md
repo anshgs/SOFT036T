@@ -11,4 +11,4 @@ EntanglementScheme.py demonstrates the entanglement scheme with 1 entangled pair
 
 mult-retention.py generates a graph "Expected QKD Efficiency as Entanglement Pair Concentration Increases", sample shown in ExpectedEfficiency.png
 
-Presentation slides available here: https://docs.google.com/presentation/d/1ndAsEHuos7To-udtu87Rz0p20aDvOesSVp6kFGUjodI/
+Presentation slides available here: https://docs.google.com/presentation/d/1ndAsEHuos7To-udtu87Rz0p20aDvOesSVp6kFGUjodI/, with a sample presentation shown in NJRSF-video.mp4
